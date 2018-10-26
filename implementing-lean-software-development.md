@@ -18,7 +18,7 @@ Just In Time Trends
   * Reluctance to Simplify - our problem is complex so our system is also complex
   * Sensitivity to Operations - Every manager should spend time working the line
   * Commitment to Learn from Mistakes - Even the smallest incident should be investigated to prevent it from happening
-  * Deference to Expertiese - every manager knows the people doing the work are the most informed about how the plant works
+  * Deference to Experts - every manager knows the people doing the work are the most informed about how the plant works
 
 > 1990 Book - The machine that changed the world - Lean Production
 
