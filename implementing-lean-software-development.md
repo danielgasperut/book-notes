@@ -2,6 +2,8 @@
 From Concept to Cash
 Mary and Tom Poppendieck
 
+Chapter 1
+
 Production History
 * 1980s Manufacturing trends
 * Interchangeable Parts (1780s)
@@ -46,4 +48,11 @@ Lean Product Development
   * Responsibility based planning and control - chief engineer sets deployment schedule. Engineers know what is expected at next syncronization point and deliver the results without being tracked. if engineers need information to do their job they are expected to pull it. Oobeya - jam.(https://www.industryweek.com/lean-six-sigma/obeya-brain-lean-enterprise)
   * Set based Concurrent Engineering - multipule designe spaces converging on an optimal solution. making descisions only when they must be made. 
    *Jidoka
+   
+   Chaper 2 Principals
+   
+   * the best results come from combining a coherent set of principals with a try and see approach to practice 
+   
+   * 7 Principals of Lean Software Development
+    * Eliminate Waste - 
 
