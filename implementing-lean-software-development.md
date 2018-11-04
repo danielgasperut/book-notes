@@ -54,5 +54,12 @@ Lean Product Development
    * the best results come from combining a coherent set of principals with a try and see approach to practice 
    
    * 7 Principals of Lean Software Development
-    * Eliminate Waste - 
+    * Eliminate Waste - anything which doesn't drive customer value. In mfg Inventory is waste. Inventory in software development is partially completed work. Much of the risk of software development is in partially done work. Requirements churn, extra features. 
+    * Build Quality in - correct defects as they come up. (don't release defects) TDD. Write Less code. 
+     * Practices that lead to successful development: early release, daily builds / tests, team with a lead, modular archetecture
+    * Create Knowledge - 
+    * Defer commitment - jit commitments. 
+    * Deliver fast - don't have unfilled orders. if quality is built in, speed doesn't mean hacks
+    * Respect people - respect the workers on the product itself
+    * Optimize the whole
 
